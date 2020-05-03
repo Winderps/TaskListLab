@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.exe
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.deps.json
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.runtimeconfig.json
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.dll
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\bin\Debug\netcoreapp3.1\TaskListManager.pdb
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.dll
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.pdb
+C:\Users\Winderps\source\repos\TaskListManager\TaskListManager\obj\Debug\netcoreapp3.1\TaskListManager.genruntimeconfig.cache
