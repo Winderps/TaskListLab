@@ -87,6 +87,15 @@ namespace TaskListManager
             _complete = false;
         }
 
+        /// <summary>
+        /// Format this task to be displayed to the console.
+        /// I had to make this because Console.WriteLine doesn't like when you give it a dynamic width for the columns
+        /// </summary>
+        /// <param name="tab1">The length of the name column</param>
+        /// <param name="tab2">The length of the due date column</param>
+        /// <param name="tab3">The length of the completion status column</param>
+        /// <param name="tab4">The length of the description column</param>
+        /// <returns>The formatted string for display</returns>
         public string FormatForDisplay(int tab1, int tab2, int tab3, int tab4)
         {
             string complete = (_complete ? "Complete" : "Incomplete");
@@ -186,6 +195,10 @@ namespace TaskListManager
             }
         }
 
+        /// <summary>
+        /// Display a task to the console
+        /// </summary>
+        /// <param name="t">The Task to be displayed</param>
         private static void DisplayTask(Task t)
         {
             Console.WriteLine($"{"Team Member",25}{"Due Date",20}{"Status",20}{"Description",55}");
